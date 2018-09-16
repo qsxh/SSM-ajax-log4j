@@ -7,6 +7,10 @@ public class test2 {
 		System.out.println("is update");
 		
 		System.out.println("121");
+		
+		System.out.println("222");
+		
+		System.out.println();
 	}
 
 }
